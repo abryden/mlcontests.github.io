@@ -9,6 +9,15 @@
             "platform": "AIcrowd",
             "sponsor": "AIcrowd"
      },
+      {
+            "name": "Deep Inertial Prediction Challenge",
+            "url": "https://dipr.ai/rules",
+            "type": "📈 Time Series Forecasting + Computer Vision Adjacent",
+            "deadline": "30 Apr 2022",
+            "prize": "$5000",
+            "platform": "Arcturus",
+            "sponsor": "Arcturus"
+     },
      {
             "name": "Food Recognition Benchmark 2022",
             "url": "https://www.aicrowd.com/challenges/food-recognition-benchmark-2022?utm_campaign=food22&utm_medium=post&utm_source=mlc",
